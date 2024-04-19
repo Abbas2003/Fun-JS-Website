@@ -1,6 +1,6 @@
 function changeImage(image){
     console.log(image.src)
-    var urlOne = "https://static.wikia.nocookie.net/kungfupanda/images/7/73/KFP3-promo-po4.jpg/revision/latest?cb=20150726165358"
+    var urlOne = "https://i.pinimg.com/736x/36/2e/0a/362e0ae5ced1d47299658bcb8f112040.jpg"
     var urlTwo = "https://upload.wikimedia.org/wikipedia/en/3/3d/Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png"
     
     if(image.src == urlOne){
